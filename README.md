@@ -2,6 +2,12 @@
 
 Este projeto faz parte do projeto final da Disciplina **Arquitetura de Software**, consiste no frontend do projeto CRUD de válvulas, responsável por fornecer uma interface amigável para o usuário. O frontend foi desenvolvido utilizando HTML, CSS (com o auxílio do framework Bootstrap) e Javascript.
 
+### Recursos Principais
+
+* **Operações CRUD** : Você pode criar, ler, atualizar e excluir informações sobre válvulas.
+* **Exportação de Dados** :Foram criados cinco opções de exportação de dados para diferentes formatos: XML, CSV, PDF, DOCX e XLSX.
+* **API Pública** : A API pública permite que você exporte uma URL para PDF.
+
 ---
 
 ## Como executar no browser
